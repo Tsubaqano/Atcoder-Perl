@@ -1,0 +1,1 @@
+print "A".substr(<>,8,1)."C"

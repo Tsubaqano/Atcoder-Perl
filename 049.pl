@@ -1,0 +1,1 @@
+print <> =~ /a|i|u|e|o/ ? "Yes\n" : "No\n"
