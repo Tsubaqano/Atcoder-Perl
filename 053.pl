@@ -1,1 +1,1 @@
-print <> < 1200 ? "ABC" : "ARC"
+print <> < 1200 ? "ABC\n" : "ARC\n"

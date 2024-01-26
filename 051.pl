@@ -1,3 +1,3 @@
 my $a = <>;
 $a =~ s/,/ /;
-print $a
+print $a."\n"

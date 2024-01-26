@@ -1,1 +1,1 @@
-print "A".substr(<>,8,1)."C"
+print "A".substr(<>,8,1)."C\n"

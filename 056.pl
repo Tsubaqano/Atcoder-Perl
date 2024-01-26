@@ -1,2 +1,2 @@
 my ($a, $b) = split(/\s/, <>);
-print $a eq $b ? "H" : "D"
+print $a eq $b ? "H\n" : "D\n"
